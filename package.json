@@ -1,0 +1,24 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paraggawde/iochat.git"
+  },
+  "author": "Parag Gawde",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/paraggawde/iochat/issues"
+  },
+  "homepage": "https://github.com/paraggawde/iochat#readme"
+}
