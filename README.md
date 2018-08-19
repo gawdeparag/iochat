@@ -1,6 +1,6 @@
 # iochat
-A simple "socket.io" Chat App Using Web sockets. <br>
-Used <a href="https://github.com/bradtraversy">Brad Traversy's</a> video as a reference...<br>
+## A simple "socket.io" Chat App Using Web sockets. <br>
+### Used <a href="https://github.com/bradtraversy">Brad Traversy's</a> video as a reference...<br>
 Link to that video is here: <br>
 <a href="https://youtu.be/tHbCkikFfDE">https://youtu.be/tHbCkikFfDE</a> <br>
 ![image](https://user-images.githubusercontent.com/32009983/44309975-8728af80-a3ec-11e8-8ee9-8d1e9d0c642f.png)
