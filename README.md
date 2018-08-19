@@ -2,8 +2,7 @@
 A simple "socket.io" Chat App Using Web sockets. <br>
 Used <a href="https://github.com/bradtraversy">Brad Traversy's</a> video as a reference...<br>
 Link to that video is here: <br>
-Screenshots: <br>
-<a href="https://youtu.be/tHbCkikFfDE">https://youtu.be/tHbCkikFfDE</a>
+<a href="https://youtu.be/tHbCkikFfDE">https://youtu.be/tHbCkikFfDE</a> <br>
 ![image](https://user-images.githubusercontent.com/32009983/44309975-8728af80-a3ec-11e8-8ee9-8d1e9d0c642f.png)
 ![image](https://user-images.githubusercontent.com/32009983/44309982-93ad0800-a3ec-11e8-82db-184b778c2225.png)
 ![image](https://user-images.githubusercontent.com/32009983/44309985-990a5280-a3ec-11e8-94c8-7ecfcbd40b46.png)
